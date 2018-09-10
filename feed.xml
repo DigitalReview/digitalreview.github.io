@@ -3,12 +3,35 @@
     <title>The Digital Review</title>
     <link href="https://www.thedigitalreview.org/feed.xml" rel="self" />
     <link href="https://www.thedigitalreview.org" />
-    <updated>2018-09-11T02:03:58+03:00</updated>
+    <updated>2018-09-11T02:30:49+03:00</updated>
     <author>
         <name>Daiz</name>
     </author>
     <id>https://www.thedigitalreview.org</id>
 
+    <entry>
+        <title>Welcome to The Digital Review!</title>
+        <author>
+            <name>Daiz</name>
+        </author>
+        <link href="https://www.thedigitalreview.org/Welcome-to-The-Digital-Review/"/>
+        <id>https://www.thedigitalreview.org/Welcome-to-The-Digital-Review/</id>
+
+        <updated>2018-09-11T02:29:23+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.thedigitalreview.org/media/posts/3/welcome-banner.png" alt="" />
+                    Digital media has become a part of our everyday life. We consume content via various digital services every single day, but very little is actually written about the quality, usability and other aspects of the services themselves when compared to the content available on them. The&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.thedigitalreview.org/media/posts/3/welcome-banner.png" alt="" />
+                <p>Digital media has become a part of our everyday life. We consume content via various digital services every single day, but very little is actually written about the quality, usability and other aspects of the services themselves when compared to the content available on them.<em> The Digital Review </em>aims to change that. We intend to provide you with news, articles and reviews on various digital media services with a consumer-oriented focus, initially focusing on services providing anime and manga and later expanding into other areas like music, movies, books and whatnot.</p>
+<p>The site and its contents are still work in progress. Initially you can expect another article on Crunchyroll focusing on their recent developments and after that you should expect some reviews on various anime services. Ideas and suggestions are welcome - you can <a href="https://twitter.com/digitaIreview">follow and tweet at us on Twitter</a> for that. Welcome!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Crunchyroll’s Reduced Premium Video Quality is Either Deliberate Cost-Cutting or Catastrophic Incompetence</title>
         <author>
@@ -22,16 +45,16 @@
             <category term="Article"/>
             <category term="Anime"/>
 
-        <updated>2018-09-11T02:03:11+03:00</updated>
+        <updated>2018-09-11T02:26:35+03:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://www.thedigitalreview.org/media/posts/2/tanya-03.png" alt="" />
+                        <img src="https://www.thedigitalreview.org/media/posts/2/cr-bitrate-reduction.png" alt="" />
                     On March 11th 2017, people started noticing that something was going on at Crunchyroll. Namely, how the video quality for paying customers seemed to be looking a lot worse than before. They weren't wrong (as you can see for yourself in this comparison I made) — the bitrate in basically all&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://www.thedigitalreview.org/media/posts/2/tanya-03.png" alt="" />
+                    <img src="https://www.thedigitalreview.org/media/posts/2/cr-bitrate-reduction.png" alt="" />
                 <p>On March 11th 2017, people started noticing that something was going on at <a href="http://www.crunchyroll.com/"  class="markup--anchor markup--p-anchor" rel="nofollow noopener noreferrer" target="_blank">Crunchyroll</a>. Namely, how the video quality for paying customers seemed to be looking a lot worse than before.</p>
 <p class="msg msg--highlight">They weren't wrong <span class="markup--quote markup--p-quote is-me is-other" >(as you can see for yourself in <a href="http://diff.pics/Tb0D8sX0IXXX/4"  class="markup--anchor markup--p-anchor" rel="nofollow noopener noreferrer" target="_blank">this comparison</a> I made)</span> — the bitrate in basically all their premium streams (including 720p and 1080p options) had been essentially halved, leading to notable reduction in quality.</p>
 <p>Many people have been wondering if this was some sort of isolated incident or a technical issue of some kind. Well, as you might guess from the title, it's the exact opposite — this was an intentional move that's been a long time in the making.</p>
